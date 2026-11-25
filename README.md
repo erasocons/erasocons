@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=180&section=header&text=Diego%20Eraso&fontSize=42&fontColor=ffffff&desc=Data%20%26%20Cloud%20Engineer%20%7C%20AWS%20Certified&descSize=18&descAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Thanks%20for%20stopping%20by&descSize=18&descAlignY=68" alt="Welcome banner" />
 </p>
 
 ## 👋 Hi, I'm [Tu Nombre]
