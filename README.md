@@ -32,7 +32,15 @@ Today, breakthroughs in artificial intelligence driven by neural networks and tr
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,spark,databricks,angular,html,js,css,flask,sqlite,mysql,aws,docker,linux,git,github,vscode,windows,figma,pr,ps,notion" />
+  <img src="https://skillicons.dev/icons?i=python,r,angular,html,js,css,flask,sqlite,mysql,aws,docker,linux,git,github,vscode,windows" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
 </p>
 
 ---
@@ -41,11 +49,4 @@ Today, breakthroughs in artificial intelligence driven by neural networks and tr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erasocons&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&radius=10" alt="GitHub Activity Graph" />
 </p>
 
-```mermaid
-flowchart LR
-    A[Raw Data / APIs] --> B[(AWS S3 Landing)]
-    B --> C[PySpark / Databricks ETL]
-    C --> D[(PostgreSQL / Data Warehouse)]
-    D --> E[Streamlit / Power BI]
-```
 
