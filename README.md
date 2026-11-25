@@ -11,7 +11,7 @@
 Software & Data Engineer focused on...
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6EE7B7&center=true&vCenter=true&multiline=false&width=720&lines=%3E+python+train_models.py+--epochs%3D100;%3E+Ready:+Data+Scientist+%26+AI+Builder;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=10000&pause=1200&color=6EE7B7&center=true&vCenter=true&multiline=false&width=780&lines=%3E+python+train_models.py+--epochs%3D100;%5BINFO%5D+High+accuracy+detected+(no+overfitting);Status%3A+Ready+for+Data+Science+%26+AI+Building;" alt="Typing SVG" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
