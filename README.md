@@ -27,8 +27,16 @@ Today, breakthroughs in artificial intelligence driven by neural networks and tr
 - **🎓 Data Analytics & Data Science Learning Platform** - An interactive educational website designed to teach practical data analytics, machine learning workflows, and end-to-end project building.
 - **🧭 Opportunity & Career Radar** - A web-scraping and AI-matching tool that aggregates job openings, volunteering roles, and community projects, filtering and ranking future opportunities based on the user's skills, knowledge level, and available free time.
 
+---
 
-Markdown
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,spark,databricks,angular,html,js,css,flask,sqlite,mysql,aws,docker,linux,git,github,vscode,windows,figma,pr,ps,notion" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erasocons&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&radius=10" alt="GitHub Activity Graph" />
 </p>
