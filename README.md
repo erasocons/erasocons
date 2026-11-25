@@ -3,6 +3,10 @@
   🌐 <b>English</b> | <a href="README.es.md">Español</a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=180&section=header&text=Diego%20Eraso&fontSize=42&fontColor=ffffff&desc=Data%20%26%20Cloud%20Engineer%20%7C%20AWS%20Certified&descSize=18&descAlignY=72" />
+</p>
+
 ## 👋 Hi, I'm [Tu Nombre]
 Software & Data Engineer focused on...
 
@@ -23,6 +27,4 @@ flowchart LR
     C --> D[(PostgreSQL / Data Warehouse)]
     D --> E[Streamlit / Power BI]
 ```
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=180&section=header&text=Diego%20Eraso&fontSize=42&fontColor=ffffff&desc=Data%20%26%20Cloud%20Engineer%20%7C%20AWS%20Certified&descSize=18&descAlignY=72" />
-</p>
+
