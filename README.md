@@ -1,5 +1,3 @@
-## 👋 Hi, I'm [Tu Nombre]
-Software & Data Engineer focused on...
 
 <details>
   <summary>🇪🇸 <b>Leer versión en Español</b></summary>
@@ -9,3 +7,7 @@ Software & Data Engineer focused on...
   Ingeniero de Datos y Software enfocado en...
 
 </details>
+
+## 👋 Hi, I'm [Tu Nombre]
+Software & Data Engineer focused on...
+
