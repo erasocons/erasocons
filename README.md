@@ -32,7 +32,7 @@ Today, breakthroughs in artificial intelligence driven by neural networks and tr
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,angular,html,js,css,flask,sqlite,mysql,aws,docker,linux,git,github,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=python,r,sklearn,html,js,css,flask,sqlite,mysql,aws,docker,linux,git,github,vscode,windows" />
 </p>
 
 
