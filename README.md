@@ -49,4 +49,19 @@ Today, breakthroughs in artificial intelligence driven by neural networks and tr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erasocons&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&radius=10" alt="GitHub Activity Graph" />
 </p>
 
+### 🤝 Let's Connect!
+
+I'm always open to discussing interesting projects, sharing knowledge, or exploring collaboration opportunities!
+
+<p align="center">
+  <a href="https://t.me/ERASO999" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</p>
+
+<p align="center">
+  📧 <b>diegoeraso.ro@gmail.com</b>
+</p>
 
