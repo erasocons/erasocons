@@ -10,6 +10,10 @@
 ## 👋 Hi, I'm [Tu Nombre]
 Software & Data Engineer focused on...
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6EE7B7&center=true&vCenter=true&multiline=false&width=720&lines=%3E+python+train_models.py+--epochs%3D100;%3E+Ready:+Data+Scientist+%26+AI+Builder;" alt="Typing SVG" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
