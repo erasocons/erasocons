@@ -13,10 +13,6 @@
 </p>
 ---
 
-Hi, I'm an Electronic Engineer and Data Specialist focused on transforming raw, complex data into scalable production pipelines, predictive models, and functional web applications. I am a strong advocate for the integration of technology and humanity—throughout history, innovation has consistently elevated our quality of life, from automating industrial labor to connecting global knowledge in seconds.
-
-Today, breakthroughs in artificial intelligence driven by neural networks and transformers give us an unprecedented opportunity to delegate repetitive, memory-heavy tasks and focus on what makes us uniquely human: intuition and creativity. Instead of spending days or weeks building prototypes from scratch, we can use AI as a co-builder to rapidly validate hypotheses, test ideas, and expand the reach of what we can create.
-
 ---
 
 ### 🚧 What I'm Building
