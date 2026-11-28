@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=10000&pause=1200&color=6EE7B7&center=true&vCenter=true&multiline=false&width=780&lines=%3E+python+train_models.py+--epochs%3D100;%5BINFO%5D+High+accuracy+detected+(no+overfitting);Status%3A+Ready+for+Data+Science+%26+AI+Building;" alt="Typing SVG" />
 </p>
----
+
 
 Hi, I'm an Electronic Engineer and Data Specialist focused on transforming raw, complex data into scalable production pipelines, predictive models, and functional web applications. I am a strong advocate for the integration of technology and humanity—throughout history, innovation has consistently elevated our quality of life, from automating industrial labor to connecting global knowledge in seconds.
 
@@ -44,10 +44,6 @@ Today, breakthroughs in artificial intelligence driven by neural networks and tr
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erasocons&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&radius=10" alt="GitHub Activity Graph" />
-</p>
 
 ### 🤝 Let's Connect!
 
