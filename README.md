@@ -45,6 +45,12 @@ Today, breakthroughs in artificial intelligence driven by neural networks and tr
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erasocons&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&radius=10" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### 🤝 Let's Connect!
 
 I'm always open to discussing interesting projects, sharing knowledge, or exploring collaboration opportunities!
